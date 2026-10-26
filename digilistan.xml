@@ -5,6 +5,12 @@
     <link>https://www.sverigesradio.se/poddar/digilistan</link>
     <description>Digilistan i P3 som poddflöde - avsnitten streamas direkt från Sveriges Radio.</description>
     <language>sv</language>
+    <image>
+      <url>https://static-cdn.sr.se/images/2697/a7b9627f-f713-462a-9359-69a79c637334.jpg</url>
+      <title>Digilistan i P3</title>
+      <link>https://www.sverigesradio.se/poddar/digilistan</link>
+    </image>
+    <itunes:image href="https://static-cdn.sr.se/images/2697/a7b9627f-f713-462a-9359-69a79c637334.jpg"/>
     <itunes:author>Sveriges Radio</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
