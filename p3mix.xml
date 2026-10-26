@@ -5,10 +5,16 @@
     <link>https://www.sverigesradio.se/p3mix</link>
     <description>P3 Mix som poddflöde - avsnitten streamas direkt från Sveriges Radio.</description>
     <language>sv</language>
+    <image>
+      <url>https://static-cdn.sr.se/images/5047/45d7b1f7-1af0-4a35-b73f-dc54649cf86d.jpg</url>
+      <title>P3 Mix</title>
+      <link>https://www.sverigesradio.se/p3mix</link>
+    </image>
+    <itunes:image href="https://static-cdn.sr.se/images/5047/45d7b1f7-1af0-4a35-b73f-dc54649cf86d.jpg"/>
     <itunes:author>Sveriges Radio</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
-    <lastBuildDate>Mon, 26 Oct 2026 06:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 18:03:00 +0000</lastBuildDate>
     <item>
       <title>P3 Klubbmix: Swedish House Mafia med Albin Myers</title>
       <description>Innan Swedish House Mafia blev världsstjärnor hade Axwell, Ingrosso och Angello egna karriärer. Albin tar oss genom musiken före och efter gruppens genombrott. Repris.</description>
