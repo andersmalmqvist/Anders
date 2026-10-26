@@ -26,6 +26,10 @@ OUT_DEFAULT = Path(__file__).resolve().parents[1] / "digilistan.xml"
 CHANNEL_TITLE = "Digilistan i P3"
 CHANNEL_LINK = "https://www.sverigesradio.se/poddar/digilistan"
 CHANNEL_DESC = "Digilistan i P3 som poddflöde - avsnitten streamas direkt från Sveriges Radio."
+PROGRAM_API = "https://api.sr.se/api/v2/programs/2697?format=json"
+PROGRAM_IMAGE_FALLBACK = (
+    "https://static-cdn.sr.se/images/2697/a7b9627f-f713-462a-9359-69a79c637334.jpg"
+)
 
 
 def fetch_json(url: str) -> dict:
@@ -51,6 +55,18 @@ def parse_sr_date(value: str) -> datetime | None:
     if not digits:
         return None
     return datetime.fromtimestamp(int(digits) / 1000, tz=timezone.utc)
+
+
+def program_image() -> str:
+    """Programbild (full upplösning) från SR:s program-API, med fallback."""
+    try:
+        data = fetch_json(PROGRAM_API)
+        url = ((data.get("program") or {}).get("programimagetemplate") or "").strip()
+        if url:
+            return url
+    except Exception:
+        pass
+    return PROGRAM_IMAGE_FALLBACK
 
 
 def usable(ep: dict) -> bool:
@@ -89,6 +105,7 @@ def build(episodes: list[dict]) -> str:
         if d
     ]
     build_date = max(dates) if dates else datetime.now(timezone.utc)
+    image_url = program_image()
 
     lines = [
         '<?xml version="1.0" encoding="utf-8"?>',
@@ -99,6 +116,12 @@ def build(episodes: list[dict]) -> str:
         f"    <link>{escape(CHANNEL_LINK)}</link>",
         f"    <description>{escape(CHANNEL_DESC)}</description>",
         "    <language>sv</language>",
+        "    <image>",
+        f"      <url>{escape(image_url)}</url>",
+        f"      <title>{escape(CHANNEL_TITLE)}</title>",
+        f"      <link>{escape(CHANNEL_LINK)}</link>",
+        "    </image>",
+        f'    <itunes:image href="{escape(image_url)}"/>',
         "    <itunes:author>Sveriges Radio</itunes:author>",
         "    <itunes:explicit>no</itunes:explicit>",
         "    <itunes:category text=\"Music\"/>",

@@ -24,6 +24,10 @@ OUT_DEFAULT = Path(__file__).resolve().parents[1] / "p3mix.xml"
 CHANNEL_TITLE = "P3 Mix"
 CHANNEL_LINK = "https://www.sverigesradio.se/p3mix"
 CHANNEL_DESC = "P3 Mix som poddflöde - avsnitten streamas direkt från Sveriges Radio."
+PROGRAM_API = "https://api.sr.se/api/v2/programs/5047?format=json"
+PROGRAM_IMAGE_FALLBACK = (
+    "https://static-cdn.sr.se/images/5047/45d7b1f7-1af0-4a35-b73f-dc54649cf86d.jpg"
+)
 
 
 def fetch_json(url: str) -> dict:
@@ -65,7 +69,30 @@ def collect_episodes() -> list[dict]:
     return episodes
 
 
+def program_image() -> str:
+    """Programbild (full upplösning) från SR:s program-API, med fallback."""
+    try:
+        data = fetch_json(PROGRAM_API)
+        url = ((data.get("program") or {}).get("programimagetemplate") or "").strip()
+        if url:
+            return url
+    except Exception:
+        pass
+    return PROGRAM_IMAGE_FALLBACK
+
+
+def episode_date(ep: dict) -> datetime | None:
+    files = (ep.get("broadcast") or {}).get("broadcastfiles") or [{}]
+    return parse_sr_date(ep.get("publishdateutc") or (files[0] or {}).get("publishdateutc") or "")
+
+
 def build(episodes: list[dict]) -> str:
+    # lastBuildDate sätts till nyaste avsnittets tid, så filen är stabil
+    # och bara ändras när ett nytt avsnitt faktiskt dykt upp.
+    dates = [d for d in (episode_date(ep) for ep in episodes) if d]
+    build_date = max(dates) if dates else datetime.now(timezone.utc)
+    image_url = program_image()
+
     lines = [
         '<?xml version="1.0" encoding="utf-8"?>',
         '<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"'
@@ -75,10 +102,16 @@ def build(episodes: list[dict]) -> str:
         f"    <link>{escape(CHANNEL_LINK)}</link>",
         f"    <description>{escape(CHANNEL_DESC)}</description>",
         "    <language>sv</language>",
+        "    <image>",
+        f"      <url>{escape(image_url)}</url>",
+        f"      <title>{escape(CHANNEL_TITLE)}</title>",
+        f"      <link>{escape(CHANNEL_LINK)}</link>",
+        "    </image>",
+        f'    <itunes:image href="{escape(image_url)}"/>',
         "    <itunes:author>Sveriges Radio</itunes:author>",
         "    <itunes:explicit>no</itunes:explicit>",
         "    <itunes:category text=\"Music\"/>",
-        f"    <lastBuildDate>{format_datetime(datetime.now(timezone.utc))}</lastBuildDate>",
+        f"    <lastBuildDate>{format_datetime(build_date)}</lastBuildDate>",
     ]
 
     for ep in episodes:
