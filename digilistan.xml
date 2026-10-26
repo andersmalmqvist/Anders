@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Digilistan i P3</title>
+    <link>https://www.sverigesradio.se/poddar/digilistan</link>
+    <description>Digilistan i P3 som poddflöde - avsnitten streamas direkt från Sveriges Radio.</description>
+    <language>sv</language>
+    <itunes:author>Sveriges Radio</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Music"/>
+    <lastBuildDate>Sat, 24 Oct 2026 09:03:00 +0000</lastBuildDate>
+    <item>
+      <title>Digilistan i P3 med Emma Percival</title>
+      <description>Stabilt i botten och skakigt i toppen på veckans topplista. Dessutom tar sig den oblyga nykomlingen ”Stop The Wedding” med Ashe in - högt!</description>
+      <link>https://www.sverigesradio.se/avsnitt/2878604</link>
+      <guid isPermaLink="false">digilistan-2878604</guid>
+      <pubDate>Sat, 24 Oct 2026 09:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/digilistan_i_p3/2026/10/digilistan_i_p3_20261024_1103_192.m4a" length="169799239" type="audio/mp4"/>
+      <itunes:duration>7020</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/2697/e92baa39-217b-41f7-a502-9511ae85010f.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>Digilistan i P3 med Mari Hesthammer</title>
+      <description>Mari guidar dig genom veckans mest populära låtar i Sverige.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2875036</link>
+      <guid isPermaLink="false">digilistan-2875036</guid>
+      <pubDate>Sat, 17 Oct 2026 09:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/digilistan_i_p3/2026/10/digilistan_i_p3_20261017_1103_192.m4a" length="169799195" type="audio/mp4"/>
+      <itunes:duration>7020</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/2697/d93c37b7-67e3-4874-91a6-e9818185c16e.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>Digilistan i P3 med Emma Percival</title>
+      <description>Topp 35 är här och det med en Taylor Swift på väg mot toppen, dubbla placeringar för Olivia Rodrigo och ”Stateside” som gör comeback.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2870379</link>
+      <guid isPermaLink="false">digilistan-2870379</guid>
+      <pubDate>Sat, 10 Oct 2026 09:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/digilistan_i_p3/2026/10/digilistan_i_p3_20261010_1103_192.m4a" length="169799333" type="audio/mp4"/>
+      <itunes:duration>7020</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/2697/e92baa39-217b-41f7-a502-9511ae85010f.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>Digilistan med Mari Hesthammer</title>
+      <description>Vi säger hejdå till Raye som spenderat 1 år på listan och hej till Taylor Swift som nu har flest låtar på veckans lista. Dessutom ny svensk musik och en låt med en bekant dancehall rytm</description>
+      <link>https://www.sverigesradio.se/avsnitt/2864888</link>
+      <guid isPermaLink="false">digilistan-2864888</guid>
+      <pubDate>Sat, 03 Oct 2026 09:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/digilistan_i_p3/2026/10/digilistan_i_p3_20261003_1103_192.m4a" length="169800103" type="audio/mp4"/>
+      <itunes:duration>7020</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/2697/d93c37b7-67e3-4874-91a6-e9818185c16e.jpg?preset=api-default-square"/>
+    </item>
+  </channel>
+</rss>
