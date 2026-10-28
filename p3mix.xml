@@ -295,35 +295,5 @@
       <itunes:duration>3480</itunes:duration>
       <itunes:image href="https://static-cdn.sr.se/images/5047/3f2113ee-3bb8-4fc9-9eb1-6903b3972a5a.jpg?preset=api-default-square"/>
     </item>
-    <item>
-      <title>P3 Klubbmixhits med Linda Nordeman</title>
-      <description>Nya hits från dansgolven och flera remixer på stora klubbklassiker i kvällens nya avsnitt. Musik med Fatboy Slim, Justice, The Bausa &amp; Kettama och många fler.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2861151</link>
-      <guid isPermaLink="false">p3mix-2861151</guid>
-      <pubDate>Sat, 26 Sep 2026 18:03:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_klubbmixhits/2026/09/p3_klubbmixhits_20260926_2003_192.m4a" length="82723183" type="audio/mp4"/>
-      <itunes:duration>3420</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/5047/7df41e1c-f8c0-412d-87b7-60b842e0e886.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>Skivhyllan i P3 med Samir Yosufi: Café Del Mar</title>
-      <description>En special om balearic, soundet av Ibiza.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2861150</link>
-      <guid isPermaLink="false">p3mix-2861150</guid>
-      <pubDate>Sat, 26 Sep 2026 17:03:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/skivhyllan_i_p3/2026/09/skivhyllan_i_p3_20260926_1903_192.m4a" length="82723087" type="audio/mp4"/>
-      <itunes:duration>3420</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/5047/0a163c05-51ee-49b3-90dd-e4ef499d65f1.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 Tracksmix 90-tal med Mio Oliwa</title>
-      <description>90-talets magiska låt-skatt står i fokus i dagens Tracksmix, där vi doppar tårna i allt från britpop till eurodance. Musik med bl.a. Oasis, Pet Shop Boys &amp; Alice Deejay. Programledare: Mio Oliwa</description>
-      <link>https://www.sverigesradio.se/avsnitt/2869999</link>
-      <guid isPermaLink="false">p3mix-2869999</guid>
-      <pubDate>Sat, 26 Sep 2026 11:03:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_tracksmix/2026/09/p3_tracksmix_20260926_1303_192.m4a" length="82723302" type="audio/mp4"/>
-      <itunes:duration>3420</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/5047/2a0c0c40-03a4-4d24-b800-43804bc899e5.png?preset=api-default-square"/>
-    </item>
   </channel>
 </rss>
