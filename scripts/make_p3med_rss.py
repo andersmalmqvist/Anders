@@ -20,7 +20,7 @@ API = (
     "https://api.sr.se/api/v2/episodes/index"
     f"?format=json&programid={PROGRAM_ID}&size=100&page={{page}}"
 )
-MAX_ITEMS = 10
+MAX_ITEMS = 20
 UA = "p3med-feed/1.0 (+github pages)"
 OUT_DEFAULT = Path(__file__).resolve().parents[1] / "p3med.xml"
 CHANNEL_TITLE = "P3 med"
