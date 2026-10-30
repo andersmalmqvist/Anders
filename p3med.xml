@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>P3 med</title>
+    <link>https://www.sverigesradio.se/poddar/p3-med</link>
+    <description>P3 med som poddflöde - avsnitten streamas direkt från Sveriges Radio.</description>
+    <language>sv</language>
+    <image>
+      <url>https://static-cdn.sr.se/images/4323/8ea3e622-6bfd-4b56-ab2b-a3870eb4b04e.jpg</url>
+      <title>P3 med</title>
+      <link>https://www.sverigesradio.se/poddar/p3-med</link>
+    </image>
+    <itunes:image href="https://static-cdn.sr.se/images/4323/8ea3e622-6bfd-4b56-ab2b-a3870eb4b04e.jpg"/>
+    <itunes:author>Sveriges Radio</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Music"/>
+    <lastBuildDate>Thu, 29 Oct 2026 21:30:00 +0000</lastBuildDate>
+    <item>
+      <title>Med Annie Widman</title>
+      <description>P3-profiler guidar dig genom den bästa musiken.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2882566</link>
+      <guid isPermaLink="false">p3med-2882566</guid>
+      <pubDate>Thu, 29 Oct 2026 21:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_musik/2026/10/p3_musik_20261029_2230_192.m4a" length="130615699" type="audio/mp4"/>
+      <itunes:duration>5400</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 med Mari Hesthammer &amp; Navid Bavey</title>
+      <description>Jalda har chans att vinna P3 Gulds Framtidens Artist och ikväll gästar hon Mari &amp; Navid. Duon går även igenom oktober månads bästa släpp och intressantaste händelser.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2882564</link>
+      <guid isPermaLink="false">p3med-2882564</guid>
+      <pubDate>Thu, 29 Oct 2026 16:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/10/p3_med_20261029_1730_192.m4a" length="217691535" type="audio/mp4"/>
+      <itunes:duration>9000</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/1fd5912c-3db9-4f24-9458-9fdbd59c1839.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 med Annie Widman</title>
+      <description>Annie tittar in i spåkulan för att sia ”Framtidens artist”-nominerade Jaldas karriär! Och hon tittar närmre på Snoh Aalegras 80-tals vurm. Dessutom så kommer Fabian Lantz för att förklara vad som hände på Turnstiles gratis spelning i Washington DC.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2882562</link>
+      <guid isPermaLink="false">p3med-2882562</guid>
+      <pubDate>Thu, 29 Oct 2026 11:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/10/p3_med_20261029_1230_192.m4a" length="261229917" type="audio/mp4"/>
+      <itunes:duration>10800</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/f77ef57d-4d35-4a45-ab41-eb9b353a7e47.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>Med Annie Widman</title>
+      <description>P3-profiler guidar dig genom den bästa musiken.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2882559</link>
+      <guid isPermaLink="false">p3med-2882559</guid>
+      <pubDate>Wed, 28 Oct 2026 22:07:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_musik/2026/10/p3_musik_20261028_2307_192.m4a" length="76919091" type="audio/mp4"/>
+      <itunes:duration>3180</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 med Navid Bavey</title>
+      <description>LKN har chans att vinna P3 Gulds Framtidens Artist och ikväll gästar han Navid.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2882556</link>
+      <guid isPermaLink="false">p3med-2882556</guid>
+      <pubDate>Wed, 28 Oct 2026 16:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/10/p3_med_20261028_1730_192.m4a" length="217691607" type="audio/mp4"/>
+      <itunes:duration>9000</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/50c212e8-f887-4e59-b018-fb3c3b13d089.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 med Juan Havana</title>
+      <description>Juan tittar in i spåkulan för att se vad som kan vänta ”Framtidens artist”-nominerade LKN i sin karriär! Och P3 Din Gatas Kimbo kommer förbi för att zooma in på afrobeat banbrytaren Asake.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2882554</link>
+      <guid isPermaLink="false">p3med-2882554</guid>
+      <pubDate>Wed, 28 Oct 2026 11:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/10/p3_med_20261028_1230_192.m4a" length="261229949" type="audio/mp4"/>
+      <itunes:duration>10800</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/0c36da39-2db3-4f34-9f68-76fa3c0ebe99.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>Med Annie Widman</title>
+      <description>P3-profiler guidar dig genom den bästa musiken.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2882550</link>
+      <guid isPermaLink="false">p3med-2882550</guid>
+      <pubDate>Tue, 27 Oct 2026 21:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_musik/2026/10/p3_musik_20261027_2203_192.m4a" length="169800211" type="audio/mp4"/>
+      <itunes:duration>7020</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 med Navid Bavey</title>
+      <description>Olga Myko har chans att vinna P3 Gulds Framtidens Artist och ikväll gästar hon Navid.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2882548</link>
+      <guid isPermaLink="false">p3med-2882548</guid>
+      <pubDate>Tue, 27 Oct 2026 16:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/10/p3_med_20261027_1730_192.m4a" length="217691643" type="audio/mp4"/>
+      <itunes:duration>9000</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/50c212e8-f887-4e59-b018-fb3c3b13d089.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 med Juan Havana</title>
+      <description>Juan dyker ned i varför det inte är så konstigt att Jay-Z ska framträda som mellanakt under nästa års Super Bowl. Nomineringarna för Framtidens artist på P3 Guld har släppts - Juan tar fram spåkulan och siar framtiden för Olga Myko.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2882546</link>
+      <guid isPermaLink="false">p3med-2882546</guid>
+      <pubDate>Tue, 27 Oct 2026 11:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/10/p3_med_20261027_1230_192.m4a" length="261229933" type="audio/mp4"/>
+      <itunes:duration>10800</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/0c36da39-2db3-4f34-9f68-76fa3c0ebe99.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>Med Annie Widman</title>
+      <description>P3-profiler guidar dig genom den bästa musiken.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2882542</link>
+      <guid isPermaLink="false">p3med-2882542</guid>
+      <pubDate>Mon, 26 Oct 2026 21:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_musik/2026/10/p3_musik_20261026_2203_192.m4a" length="169800139" type="audio/mp4"/>
+      <itunes:duration>7020</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
+    </item>
+  </channel>
+</rss>
