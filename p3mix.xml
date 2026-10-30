@@ -14,7 +14,37 @@
     <itunes:author>Sveriges Radio</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
-    <lastBuildDate>Sat, 24 Oct 2026 18:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 19:03:00 +0000</lastBuildDate>
+    <item>
+      <title>P3 Klubbmix Halloween med Albin Myers</title>
+      <description>Albin Myers har i sin Halloween-special valt musik med monstruösa basgångar och skräckfilms-relaterade teman. Och lyssnar du noga kan du höra citat ur klassiska skräckfilmer inbakat i musiken.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2882575</link>
+      <guid isPermaLink="false">p3mix-2882575</guid>
+      <pubDate>Fri, 30 Oct 2026 19:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_klubbmix/2026/10/p3_klubbmix_20261030_2003_192.m4a" length="82724283" type="audio/mp4"/>
+      <itunes:duration>3420</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/5047/6a4ad2c7-69c0-459f-98e0-7df1f761bac4.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 Klubbmixhits Halloween med Valla Skivgarde</title>
+      <description>Johan Kenneman från Valla Skivgarde har gjort en klubbmix som passar extra bra till Halloween! Här hör du många roliga mashups och stora monsterhits från olika eror och genres. Repris.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2882574</link>
+      <guid isPermaLink="false">p3mix-2882574</guid>
+      <pubDate>Fri, 30 Oct 2026 18:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_klubbmixhits/2026/10/p3_klubbmixhits_20261030_1903_192.m4a" length="82724115" type="audio/mp4"/>
+      <itunes:duration>3420</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/5047/377202e2-2ab6-4510-8b93-b2b331c8e2b8.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 Hitmix Halloween med Sofia Dalén</title>
+      <description>Fira Halloweenhelgen med Sofia och ett gäng passande hits till den här läskiga högtiden. Artister som hörs i mixen är bla. Michael Jackson, Britney Spears, Olivia Rodrigo och The Cure.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2882573</link>
+      <guid isPermaLink="false">p3mix-2882573</guid>
+      <pubDate>Fri, 30 Oct 2026 17:02:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_hitmix/2026/10/p3_hitmix_20261030_1802_192.m4a" length="84175199" type="audio/mp4"/>
+      <itunes:duration>3480</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/5047/1fe661f3-9e3c-40a7-bfd3-2d99efe5800b.jpg?preset=api-default-square"/>
+    </item>
     <item>
       <title>P3 Klubbmix: Swedish House Mafia med Albin Myers</title>
       <description>Innan Swedish House Mafia blev världsstjärnor hade Axwell, Ingrosso och Angello egna karriärer. Albin tar oss genom musiken före och efter gruppens genombrott. Repris.</description>
