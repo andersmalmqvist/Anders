@@ -14,7 +14,47 @@
     <itunes:author>Sveriges Radio</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
-    <lastBuildDate>Fri, 30 Oct 2026 19:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 19:03:00 +0000</lastBuildDate>
+    <item>
+      <title>P3 Klubbmixhits Halloween med Valla Skivgarde</title>
+      <description>Johan Kenneman från Linköpings djklick Valla Skivgarde har gjort en klubbmix som passar extra bra för Halloweenfestligheter. Många roliga mashups och stora monsterhits från olika eror och genres i den här mixen.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2887293</link>
+      <guid isPermaLink="false">p3mix-2887293</guid>
+      <pubDate>Sat, 31 Oct 2026 19:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_klubbmixhits/2026/10/p3_klubbmixhits_20261031_2003_192.m4a" length="82724199" type="audio/mp4"/>
+      <itunes:duration>3420</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/5047/377202e2-2ab6-4510-8b93-b2b331c8e2b8.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 Hitmix med Tord: Halloween-special</title>
+      <description>Tord skapar läskig stämning för Halloween med hjälp av passande hits och skrämmande historier. Gäster i studion är operasångerskan Gloria Janman, en tysk brevbärare, Emert Plask och kollegan Nigel.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2887292</link>
+      <guid isPermaLink="false">p3mix-2887292</guid>
+      <pubDate>Sat, 31 Oct 2026 18:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_hitmix/2026/10/p3_hitmix_20261031_1903_192.m4a" length="82724175" type="audio/mp4"/>
+      <itunes:duration>3420</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/5047/7575e2c1-61cf-4f68-a8aa-c772f52ca98c.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 Tracksmix: Halloween-special med Mio Oliwa</title>
+      <description>En hårresande go Halloween-mix fylld med rysliga P3-dängor, där både ikoniska skräckfyllda klassiker och fruktansvärt härliga guilty pleasures får plats, allt plockat från 80, 90 och 00-talet!</description>
+      <link>https://www.sverigesradio.se/avsnitt/2887294</link>
+      <guid isPermaLink="false">p3mix-2887294</guid>
+      <pubDate>Sat, 31 Oct 2026 12:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_tracksmix/2026/10/p3_tracksmix_20261031_1303_192.m4a" length="82724283" type="audio/mp4"/>
+      <itunes:duration>3420</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/5047/64d9180d-13c9-42dd-a351-a56ea742fb7e.png?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 Loungemix med Juan Havana</title>
+      <description>Musikaliskt har MFR Souls ofta en förmåga att blanda melankoli med värme och mystik, passar Halloween helgen perfekt!</description>
+      <link>https://www.sverigesradio.se/avsnitt/2882576</link>
+      <guid isPermaLink="false">p3mix-2882576</guid>
+      <pubDate>Fri, 30 Oct 2026 20:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_loungemix/2026/10/p3_loungemix_20261030_2103_192.m4a" length="82724127" type="audio/mp4"/>
+      <itunes:duration>3420</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/5047/07cd758f-4212-46a1-bdbb-c9b9d19b6206.png?preset=api-default-square"/>
+    </item>
     <item>
       <title>P3 Klubbmix Halloween med Albin Myers</title>
       <description>Albin Myers har i sin Halloween-special valt musik med monstruösa basgångar och skräckfilms-relaterade teman. Och lyssnar du noga kan du höra citat ur klassiska skräckfilmer inbakat i musiken.</description>
