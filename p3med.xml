@@ -14,7 +14,17 @@
     <itunes:author>Sveriges Radio</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
-    <lastBuildDate>Sat, 31 Oct 2026 16:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 13:02:00 +0000</lastBuildDate>
+    <item>
+      <title>P3 med Ison Glasgow och Dessi Hietala</title>
+      <description>Söndag! Hjälp en lyssnare att sluta jämföra sig på sociala medier. Vi får även en tarotläsning över telefon av Amanda Sandvik från podden Hemsökt!</description>
+      <link>https://www.sverigesradio.se/avsnitt/2882590</link>
+      <guid isPermaLink="false">p3med-2882590</guid>
+      <pubDate>Sun, 01 Nov 2026 13:02:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261101_1402_192.m4a" length="258327336" type="audio/mp4"/>
+      <itunes:duration>10680</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/c33cada6-73b8-4617-aef2-0b29cc8e64b1.jpg?preset=api-default-square"/>
+    </item>
     <item>
       <title>P3 med Petter Hallén och Kevin Kyeswa</title>
       <description>Petter och Kimbo serverar banger efter banger för att ge dig den bästa starten på lördagskvällen.</description>
@@ -204,16 +214,6 @@
       <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/10/p3_med_20261024_1402_192.m4a" length="258327374" type="audio/mp4"/>
       <itunes:duration>10680</itunes:duration>
       <itunes:image href="https://static-cdn.sr.se/images/4323/e19fbb94-9815-45d5-b049-1c7ea73606c8.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Annie Widman</title>
-      <description>Mari Hesthammer målar upp vilken typ av kväll du kommer få med två av dagens nya släpp i lurarna. Dessutom gästar Fabian Lantz för att berätta om Michael Kiwanukas snåriga väg fram till nya plattan ”Fudge”.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2878595</link>
-      <guid isPermaLink="false">p3med-2878595</guid>
-      <pubDate>Fri, 23 Oct 2026 10:30:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/10/p3_med_20261023_1230_192.m4a" length="261229799" type="audio/mp4"/>
-      <itunes:duration>10800</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/f77ef57d-4d35-4a45-ab41-eb9b353a7e47.jpg?preset=api-default-square"/>
     </item>
   </channel>
 </rss>
