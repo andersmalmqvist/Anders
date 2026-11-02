@@ -14,7 +14,27 @@
     <itunes:author>Sveriges Radio</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
-    <lastBuildDate>Sun, 01 Nov 2026 13:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 16:30:00 +0000</lastBuildDate>
+    <item>
+      <title>P3 med Navid Bavey</title>
+      <description>Fanny Avonne har chans att vinna P3 Gulds Framtidens Artist och ikväll gästar hon Navid.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2885656</link>
+      <guid isPermaLink="false">p3med-2885656</guid>
+      <pubDate>Mon, 02 Nov 2026 16:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261102_1730_192.m4a" length="217691775" type="audio/mp4"/>
+      <itunes:duration>9000</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/50c212e8-f887-4e59-b018-fb3c3b13d089.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>Juan Havana</title>
+      <description>P3-profiler guidar dig genom den bästa musiken.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2885654</link>
+      <guid isPermaLink="false">p3med-2885654</guid>
+      <pubDate>Mon, 02 Nov 2026 11:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261102_1230_192.m4a" length="261230174" type="audio/mp4"/>
+      <itunes:duration>10800</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
+    </item>
     <item>
       <title>P3 med Ison Glasgow och Dessi Hietala</title>
       <description>Söndag! Hjälp en lyssnare att sluta jämföra sig på sociala medier. Vi får även en tarotläsning över telefon av Amanda Sandvik från podden Hemsökt!</description>
@@ -194,26 +214,6 @@
       <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/musiken_i_p3/2026/10/musiken_i_p3_20261024_2330_192.m4a" length="43539963" type="audio/mp4"/>
       <itunes:duration>1800</itunes:duration>
       <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Petter Hallén och Kevin Kyeswa</title>
-      <description>Petter och Kimbo serverar banger efter banger för att ge dig den bästa starten på lördagskvällen.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2878608</link>
-      <guid isPermaLink="false">p3med-2878608</guid>
-      <pubDate>Sat, 24 Oct 2026 15:03:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/10/p3_med_20261024_1703_192.m4a" length="169800019" type="audio/mp4"/>
-      <itunes:duration>7020</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/b805f379-256d-4d47-b06e-3ee55c228a45.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Petter Ströbaek och Dessi Hietala</title>
-      <description>Lördagshäng med Petter och Dessi! Hur är din lördagstemp? Du kan tävla i ”Vem kan slå Dessi/Petter”, och så gör vi en spellista åt en lyssnare.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2878606</link>
-      <guid isPermaLink="false">p3med-2878606</guid>
-      <pubDate>Sat, 24 Oct 2026 12:02:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/10/p3_med_20261024_1402_192.m4a" length="258327374" type="audio/mp4"/>
-      <itunes:duration>10680</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/e19fbb94-9815-45d5-b049-1c7ea73606c8.jpg?preset=api-default-square"/>
     </item>
   </channel>
 </rss>
