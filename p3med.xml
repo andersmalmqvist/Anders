@@ -14,7 +14,37 @@
     <itunes:author>Sveriges Radio</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
-    <lastBuildDate>Wed, 04 Nov 2026 16:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 16:30:00 +0000</lastBuildDate>
+    <item>
+      <title>P3 med Navid Bavey</title>
+      <description>Artisten och låtskrivaren Zikai gästar och tar oss genom en musikalisk tidsresa där hon lyfter fram musiken som gjort skillnad.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2885680</link>
+      <guid isPermaLink="false">p3med-2885680</guid>
+      <pubDate>Thu, 05 Nov 2026 16:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261105_1730_192.m4a" length="217691583" type="audio/mp4"/>
+      <itunes:duration>9000</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/50c212e8-f887-4e59-b018-fb3c3b13d089.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 med Annie Widman</title>
+      <description>Annie tittar närmre på låtar döpta efter kända och mindre kända kvinnor - från Veckans P3 Hit till Taylor Swift! Dessutom kommer Tina för att berätta om hur live-bandet Fontaines DC har utvecklats det senaste året.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2885678</link>
+      <guid isPermaLink="false">p3med-2885678</guid>
+      <pubDate>Thu, 05 Nov 2026 11:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261105_1230_192.m4a" length="261229783" type="audio/mp4"/>
+      <itunes:duration>10800</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/f77ef57d-4d35-4a45-ab41-eb9b353a7e47.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>Med Annie Widman</title>
+      <description>P3-profiler guidar dig genom den bästa musiken.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2885675</link>
+      <guid isPermaLink="false">p3med-2885675</guid>
+      <pubDate>Wed, 04 Nov 2026 21:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/autorec/et2w/p3/p3_musik/2026/11/SRP3_2026-11-04_220300_7020_a32.m4a" length="28740049" type="audio/mp4"/>
+      <itunes:duration>7020</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
+    </item>
     <item>
       <title>P3 med Navid Bavey</title>
       <description>Nektar har chans att vinna P3 Gulds Framtidens Artist och ikväll gästar dom Navid.</description>
@@ -182,36 +212,6 @@
       <guid isPermaLink="false">p3med-2882556</guid>
       <pubDate>Wed, 28 Oct 2026 16:30:00 +0000</pubDate>
       <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/10/p3_med_20261028_1730_192.m4a" length="217691607" type="audio/mp4"/>
-      <itunes:duration>9000</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/50c212e8-f887-4e59-b018-fb3c3b13d089.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Juan Havana</title>
-      <description>Juan tittar in i spåkulan för att se vad som kan vänta ”Framtidens artist”-nominerade LKN i sin karriär! Och P3 Din Gatas Kimbo kommer förbi för att zooma in på afrobeat banbrytaren Asake.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2882554</link>
-      <guid isPermaLink="false">p3med-2882554</guid>
-      <pubDate>Wed, 28 Oct 2026 11:30:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/10/p3_med_20261028_1230_192.m4a" length="261229949" type="audio/mp4"/>
-      <itunes:duration>10800</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/0c36da39-2db3-4f34-9f68-76fa3c0ebe99.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>Med Annie Widman</title>
-      <description>P3-profiler guidar dig genom den bästa musiken.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2882550</link>
-      <guid isPermaLink="false">p3med-2882550</guid>
-      <pubDate>Tue, 27 Oct 2026 21:03:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_musik/2026/10/p3_musik_20261027_2203_192.m4a" length="169800211" type="audio/mp4"/>
-      <itunes:duration>7020</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Navid Bavey</title>
-      <description>Olga Myko har chans att vinna P3 Gulds Framtidens Artist och ikväll gästar hon Navid.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2882548</link>
-      <guid isPermaLink="false">p3med-2882548</guid>
-      <pubDate>Tue, 27 Oct 2026 16:30:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/10/p3_med_20261027_1730_192.m4a" length="217691643" type="audio/mp4"/>
       <itunes:duration>9000</itunes:duration>
       <itunes:image href="https://static-cdn.sr.se/images/4323/50c212e8-f887-4e59-b018-fb3c3b13d089.jpg?preset=api-default-square"/>
     </item>
