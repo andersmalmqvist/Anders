@@ -14,7 +14,27 @@
     <itunes:author>Sveriges Radio</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
-    <lastBuildDate>Thu, 05 Nov 2026 16:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 11:30:00 +0000</lastBuildDate>
+    <item>
+      <title>P3 med Annie Widman</title>
+      <description>P3 Din Gatas Kimbo kommer förbi för att guida oss till vilken kväll som väntar med nytt från Skepta och Hogland! Och Tina Mehrafzoon berättar om Tove Styrkes nya album.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2885686</link>
+      <guid isPermaLink="false">p3med-2885686</guid>
+      <pubDate>Fri, 06 Nov 2026 11:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261106_1230_192.m4a" length="261229954" type="audio/mp4"/>
+      <itunes:duration>10800</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/f77ef57d-4d35-4a45-ab41-eb9b353a7e47.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>Med Annie Widman</title>
+      <description>P3-profiler guidar dig genom den bästa musiken.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2885682</link>
+      <guid isPermaLink="false">p3med-2885682</guid>
+      <pubDate>Thu, 05 Nov 2026 21:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_musik/2026/11/p3_musik_20261105_2230_192.m4a" length="130615723" type="audio/mp4"/>
+      <itunes:duration>5400</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
+    </item>
     <item>
       <title>P3 med Navid Bavey</title>
       <description>Artisten och låtskrivaren Zikai gästar och tar oss genom en musikalisk tidsresa där hon lyfter fram musiken som gjort skillnad.</description>
@@ -194,26 +214,6 @@
       <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/10/p3_med_20261029_1230_192.m4a" length="261229917" type="audio/mp4"/>
       <itunes:duration>10800</itunes:duration>
       <itunes:image href="https://static-cdn.sr.se/images/4323/f77ef57d-4d35-4a45-ab41-eb9b353a7e47.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>Med Annie Widman</title>
-      <description>P3-profiler guidar dig genom den bästa musiken.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2882559</link>
-      <guid isPermaLink="false">p3med-2882559</guid>
-      <pubDate>Wed, 28 Oct 2026 22:07:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_musik/2026/10/p3_musik_20261028_2307_192.m4a" length="76919091" type="audio/mp4"/>
-      <itunes:duration>3180</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Navid Bavey</title>
-      <description>LKN har chans att vinna P3 Gulds Framtidens Artist och ikväll gästar han Navid.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2882556</link>
-      <guid isPermaLink="false">p3med-2882556</guid>
-      <pubDate>Wed, 28 Oct 2026 16:30:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/10/p3_med_20261028_1730_192.m4a" length="217691607" type="audio/mp4"/>
-      <itunes:duration>9000</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/50c212e8-f887-4e59-b018-fb3c3b13d089.jpg?preset=api-default-square"/>
     </item>
   </channel>
 </rss>
