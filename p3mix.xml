@@ -14,7 +14,37 @@
     <itunes:author>Sveriges Radio</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
-    <lastBuildDate>Sat, 31 Oct 2026 19:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 20:03:00 +0000</lastBuildDate>
+    <item>
+      <title>P3 Klubbmix Tomorrowland med Miss Monique</title>
+      <description>Miss Monique är ett av de hetaste namnen inom progressive house och melodisk techno. Från Ukraina till världens största festivalscener – så här lät det när hon intog stora scenen på Tomorrowland! Repris.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2888786</link>
+      <guid isPermaLink="false">p3mix-2888786</guid>
+      <pubDate>Fri, 06 Nov 2026 19:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_klubbmix/2026/11/p3_klubbmix_20261106_2003_192.m4a" length="82723255" type="audio/mp4"/>
+      <itunes:duration>3420</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/5047/25b94f89-9ab7-4718-89fb-3f5764072aaf.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 Klubbmix Tomorrowland med Fisher</title>
+      <description>Underhållande Djn och producenten Fisher från Australien bjuder på massa nya klubbfavoriter från 2026 som mixas med klubbklassiker och såklart Fisher egna produktioner, från Tomorrowlands stora scen.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2888785</link>
+      <guid isPermaLink="false">p3mix-2888785</guid>
+      <pubDate>Fri, 06 Nov 2026 18:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_klubbmix/2026/11/p3_klubbmix_20261106_1903_192.m4a" length="82724259" type="audio/mp4"/>
+      <itunes:duration>3420</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/5047/14f6770c-d144-4680-8d35-63ea826b8151.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 Klubbmix Tomorrowland med Steve Angello</title>
+      <description>Dags för en av kungarna av den stora scenen på Tomorrowland, Steve Angello! Så här lät det när han satte den stora publiken i extas med Swedish House Mafia nostalgi och nya alster som hans remix på Basement Jaxx - Where's your head at.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2888783</link>
+      <guid isPermaLink="false">p3mix-2888783</guid>
+      <pubDate>Fri, 06 Nov 2026 17:02:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_klubbmix/2026/11/p3_klubbmix_20261106_1802_192.m4a" length="84175199" type="audio/mp4"/>
+      <itunes:duration>3480</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/5047/13570f39-2a22-4a80-a307-b537a7a18b2b.jpg?preset=api-default-square"/>
+    </item>
     <item>
       <title>P3 Klubbmixhits Halloween med Valla Skivgarde</title>
       <description>Johan Kenneman från Linköpings djklick Valla Skivgarde har gjort en klubbmix som passar extra bra för Halloweenfestligheter. Många roliga mashups och stora monsterhits från olika eror och genres i den här mixen.</description>
@@ -294,76 +324,6 @@
       <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_hitmix/2026/10/p3_hitmix_20261009_1802_192.m4a" length="84175187" type="audio/mp4"/>
       <itunes:duration>3480</itunes:duration>
       <itunes:image href="https://static-cdn.sr.se/images/5047/7b000047-6771-4578-bd61-4825b0c98923.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 Klubbmix med gäst-DJ Killen.</title>
-      <description>Svenska prisbelönta artisten, DJn och producenten Killen. presenterar och mixar klubbfavoriter i P3 Klubbmix! Förvänta dig krispig och ösig house av olika slag. Avsnittet är en repris från juni.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2877708</link>
-      <guid isPermaLink="false">p3mix-2877708</guid>
-      <pubDate>Sat, 03 Oct 2026 18:03:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_klubbmix/2026/10/p3_klubbmix_20261003_2003_192.m4a" length="82722175" type="audio/mp4"/>
-      <itunes:duration>3420</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/5047/7f67ccf6-3eb3-4e7d-8c1d-7ff0cd4646d4.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>Skivhyllan i P3 Electroclash med EMMON</title>
-      <description>EMMON dyker ner i skivbackarna för klassisk och ny Electro och Electroclash. Musiken där elektronik möter punkattityd, disco möter dystopi och där det ibland känns som att någon har kopplat in en gammal dator direkt i förstärkaren.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2864894</link>
-      <guid isPermaLink="false">p3mix-2864894</guid>
-      <pubDate>Sat, 03 Oct 2026 17:03:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/skivhyllan_i_p3/2026/10/skivhyllan_i_p3_20261003_1903_192.m4a" length="82724235" type="audio/mp4"/>
-      <itunes:duration>3420</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/5047/f1db64fd-bb69-41dd-b38f-0086f69c2f2d.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 Tracksmix 00-tal med Mio Oliwa</title>
-      <description>En resa rakt in i några av 00-talets mest ikoniska låtar med allt från klassiska dansgolvsfyllare till goa popdängor. Musik med bl.a. Rihanna, Foo Fighters &amp; The Killers. Repris</description>
-      <link>https://www.sverigesradio.se/avsnitt/2881898</link>
-      <guid isPermaLink="false">p3mix-2881898</guid>
-      <pubDate>Sat, 03 Oct 2026 11:03:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_tracksmix/2026/10/p3_tracksmix_20261003_1303_192.m4a" length="82724187" type="audio/mp4"/>
-      <itunes:duration>3420</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/5047/2a0c0c40-03a4-4d24-b800-43804bc899e5.png?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 Loungemix med Juan Havana</title>
-      <description>Den nya brittiska r&amp;b-scenen är inte en kopia av amerikansk soul längre. Idag står den på egna ben!</description>
-      <link>https://www.sverigesradio.se/avsnitt/2864885</link>
-      <guid isPermaLink="false">p3mix-2864885</guid>
-      <pubDate>Fri, 02 Oct 2026 19:03:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_loungemix/2026/10/p3_loungemix_20261002_2103_192.m4a" length="82723183" type="audio/mp4"/>
-      <itunes:duration>3420</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/5047/07cd758f-4212-46a1-bdbb-c9b9d19b6206.png?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 Klubbmix med Samir Yosufi: Vuxna män gör saker tillsammans</title>
-      <description>- som att sno samplingar av varandra. Sanningen om ”My Loleatta”, en av världens mesta vokaler. Dessutom en våg av nya svenska dansmusiksamarbeten.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2864884</link>
-      <guid isPermaLink="false">p3mix-2864884</guid>
-      <pubDate>Fri, 02 Oct 2026 18:03:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_klubbmix/2026/10/p3_klubbmix_20261002_2003_192.m4a" length="82723111" type="audio/mp4"/>
-      <itunes:duration>3420</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/5047/d716650e-c51d-4013-871c-223000f558ae.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 Klubbmixhits med Moontalk</title>
-      <description>Dansant helgvibb när duon Moontalk mixar disco, house, 80-tal, gamla klassiker, nya klubbhits och egna edits! Musik från bl.a. Chic, Eric Prydz, Josh Wink &amp; Lil' Louis och Daft Punk!</description>
-      <link>https://www.sverigesradio.se/avsnitt/2864883</link>
-      <guid isPermaLink="false">p3mix-2864883</guid>
-      <pubDate>Fri, 02 Oct 2026 17:03:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_klubbmixhits/2026/10/p3_klubbmixhits_20261002_1903_192.m4a" length="82724187" type="audio/mp4"/>
-      <itunes:duration>3420</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/5047/866606a0-17df-4540-89fb-62319e3b4140.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 Hitmix med Ayan Jamal</title>
-      <description>En höstig mix där kärlek och stora känslor står i centrum med Ayan Jamal! Musik från artister som Adéla, Prince, Fanny Avonne, Ted Gärdestad och många fler.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2864882</link>
-      <guid isPermaLink="false">p3mix-2864882</guid>
-      <pubDate>Fri, 02 Oct 2026 16:02:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_hitmix/2026/10/p3_hitmix_20261002_1802_192.m4a" length="84175247" type="audio/mp4"/>
-      <itunes:duration>3480</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/5047/3f2113ee-3bb8-4fc9-9eb1-6903b3972a5a.jpg?preset=api-default-square"/>
     </item>
   </channel>
 </rss>
