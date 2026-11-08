@@ -14,7 +14,47 @@
     <itunes:author>Sveriges Radio</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
-    <lastBuildDate>Fri, 06 Nov 2026 11:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 13:02:00 +0000</lastBuildDate>
+    <item>
+      <title>P3 med Ison Glasgow och Petter Ströbaek</title>
+      <description>Söndagshäng med Ison och Petter! Det blir snackisar, moraliska knepigheter som ska redas ut, och så kan du som lyssnar tävla i att svara fel!</description>
+      <link>https://www.sverigesradio.se/avsnitt/2885707</link>
+      <guid isPermaLink="false">p3med-2885707</guid>
+      <pubDate>Sun, 08 Nov 2026 13:02:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261108_1402_192.m4a" length="258327071" type="audio/mp4"/>
+      <itunes:duration>10680</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/aa2c450f-3486-44a8-910e-3a4fff24d60f.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>Musiken i P3</title>
+      <description>P3-profiler guidar dig genom den bästa musiken.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2885704</link>
+      <guid isPermaLink="false">p3med-2885704</guid>
+      <pubDate>Sat, 07 Nov 2026 22:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/musiken_i_p3/2026/11/musiken_i_p3_20261107_2330_192.m4a" length="43539759" type="audio/mp4"/>
+      <itunes:duration>1800</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 med Petter Hallén och Kevin Kyeswa</title>
+      <description>Petter och Kimbo serverar banger efter banger för att ge dig den bästa starten på lördagskvällen.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2885699</link>
+      <guid isPermaLink="false">p3med-2885699</guid>
+      <pubDate>Sat, 07 Nov 2026 16:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261107_1703_192.m4a" length="169800335" type="audio/mp4"/>
+      <itunes:duration>7020</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/b805f379-256d-4d47-b06e-3ee55c228a45.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 med Ison Glasgow och Petter Ströbaek</title>
+      <description>Artisten Tove Styrke gästar oss och gör lördagslistor. Du som lyssnar kan tävla i ”Vem kan slå Petter”, och så gör vi en spellista åt en lyssnare.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2885697</link>
+      <guid isPermaLink="false">p3med-2885697</guid>
+      <pubDate>Sat, 07 Nov 2026 13:02:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261107_1402_192.m4a" length="258327341" type="audio/mp4"/>
+      <itunes:duration>10680</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/aa2c450f-3486-44a8-910e-3a4fff24d60f.jpg?preset=api-default-square"/>
+    </item>
     <item>
       <title>P3 med Annie Widman</title>
       <description>P3 Din Gatas Kimbo kommer förbi för att guida oss till vilken kväll som väntar med nytt från Skepta och Hogland! Och Tina Mehrafzoon berättar om Tove Styrkes nya album.</description>
@@ -174,46 +214,6 @@
       <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/10/p3_med_20261031_1402_192.m4a" length="258327130" type="audio/mp4"/>
       <itunes:duration>10680</itunes:duration>
       <itunes:image href="https://static-cdn.sr.se/images/4323/c33cada6-73b8-4617-aef2-0b29cc8e64b1.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Annie Widman</title>
-      <description>Eleni Terzitane från P3 Din Gata ger oss en guidning genom Tylas karriär. Och musikreporter Natasha Azarmi hjälper oss se vilken kväll vi får med dagens nya låtar.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2882570</link>
-      <guid isPermaLink="false">p3med-2882570</guid>
-      <pubDate>Fri, 30 Oct 2026 11:30:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/10/p3_med_20261030_1230_192.m4a" length="261229861" type="audio/mp4"/>
-      <itunes:duration>10800</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/f77ef57d-4d35-4a45-ab41-eb9b353a7e47.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>Med Annie Widman</title>
-      <description>P3-profiler guidar dig genom den bästa musiken.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2882566</link>
-      <guid isPermaLink="false">p3med-2882566</guid>
-      <pubDate>Thu, 29 Oct 2026 21:30:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_musik/2026/10/p3_musik_20261029_2230_192.m4a" length="130615699" type="audio/mp4"/>
-      <itunes:duration>5400</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Mari Hesthammer &amp; Navid Bavey</title>
-      <description>Jalda har chans att vinna P3 Gulds Framtidens Artist och ikväll gästar hon Mari &amp; Navid. Duon går även igenom oktober månads bästa släpp och intressantaste händelser.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2882564</link>
-      <guid isPermaLink="false">p3med-2882564</guid>
-      <pubDate>Thu, 29 Oct 2026 16:30:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/10/p3_med_20261029_1730_192.m4a" length="217691535" type="audio/mp4"/>
-      <itunes:duration>9000</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/1fd5912c-3db9-4f24-9458-9fdbd59c1839.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Annie Widman</title>
-      <description>Annie tittar in i spåkulan för att sia ”Framtidens artist”-nominerade Jaldas karriär! Och hon tittar närmre på Snoh Aalegras 80-tals vurm. Dessutom så kommer Fabian Lantz för att förklara vad som hände på Turnstiles gratis spelning i Washington DC.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2882562</link>
-      <guid isPermaLink="false">p3med-2882562</guid>
-      <pubDate>Thu, 29 Oct 2026 11:30:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/10/p3_med_20261029_1230_192.m4a" length="261229917" type="audio/mp4"/>
-      <itunes:duration>10800</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/f77ef57d-4d35-4a45-ab41-eb9b353a7e47.jpg?preset=api-default-square"/>
     </item>
   </channel>
 </rss>
