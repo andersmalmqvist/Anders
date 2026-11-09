@@ -14,7 +14,27 @@
     <itunes:author>Sveriges Radio</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
-    <lastBuildDate>Sun, 08 Nov 2026 13:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 16:30:00 +0000</lastBuildDate>
+    <item>
+      <title>P3 med Petter Hallén</title>
+      <description>Bröderna Salazar gästar och snackar om boken som sammanfattar deras familjs resa och Redlines historia.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2888001</link>
+      <guid isPermaLink="false">p3med-2888001</guid>
+      <pubDate>Mon, 09 Nov 2026 16:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261109_1730_192.m4a" length="217691679" type="audio/mp4"/>
+      <itunes:duration>9000</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/9f6a144f-1a62-48bf-801c-3a4786acc109.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 med Juan Havana</title>
+      <description>Juan tar en resan genom röstens betydelse för en riktigt bra houselåt. Och musikreporter Fabian Lantz berättar om gitarristen Richard Lloyd som gick bort i helgen, och vikten som han och bandet Television hade för rockmusiken.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2887999</link>
+      <guid isPermaLink="false">p3med-2887999</guid>
+      <pubDate>Mon, 09 Nov 2026 11:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261109_1230_192.m4a" length="261228893" type="audio/mp4"/>
+      <itunes:duration>10800</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/0c36da39-2db3-4f34-9f68-76fa3c0ebe99.jpg?preset=api-default-square"/>
+    </item>
     <item>
       <title>P3 med Ison Glasgow och Petter Ströbaek</title>
       <description>Söndagshäng med Ison och Petter! Det blir snackisar, moraliska knepigheter som ska redas ut, och så kan du som lyssnar tävla i att svara fel!</description>
@@ -192,26 +212,6 @@
       <guid isPermaLink="false">p3med-2882590</guid>
       <pubDate>Sun, 01 Nov 2026 13:02:00 +0000</pubDate>
       <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261101_1402_192.m4a" length="258327336" type="audio/mp4"/>
-      <itunes:duration>10680</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/c33cada6-73b8-4617-aef2-0b29cc8e64b1.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Petter Hallén och Kevin Kyeswa</title>
-      <description>Petter och Kimbo serverar banger efter banger för att ge dig den bästa starten på lördagskvällen.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2882583</link>
-      <guid isPermaLink="false">p3med-2882583</guid>
-      <pubDate>Sat, 31 Oct 2026 16:03:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/10/p3_med_20261031_1703_192.m4a" length="169800223" type="audio/mp4"/>
-      <itunes:duration>7020</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/b805f379-256d-4d47-b06e-3ee55c228a45.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 Med Ison &amp; Dessi – GÄST: Bettina Buchanan</title>
-      <description>Lördagslistor med killtokiga Bettina Buchanan! Ring och tävla i Vem kan slå Dessi och vilken musik passar egentligen till akvarellmåleri?</description>
-      <link>https://www.sverigesradio.se/avsnitt/2893786</link>
-      <guid isPermaLink="false">p3med-2893786</guid>
-      <pubDate>Sat, 31 Oct 2026 13:02:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/10/p3_med_20261031_1402_192.m4a" length="258327130" type="audio/mp4"/>
       <itunes:duration>10680</itunes:duration>
       <itunes:image href="https://static-cdn.sr.se/images/4323/c33cada6-73b8-4617-aef2-0b29cc8e64b1.jpg?preset=api-default-square"/>
     </item>
