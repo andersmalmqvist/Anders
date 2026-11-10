@@ -14,7 +14,37 @@
     <itunes:author>Sveriges Radio</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
-    <lastBuildDate>Mon, 09 Nov 2026 16:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:30:00 +0000</lastBuildDate>
+    <item>
+      <title>P3 med Navid Bavey</title>
+      <description>Grant kommer förbi och snackar musik och förändring.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2888009</link>
+      <guid isPermaLink="false">p3med-2888009</guid>
+      <pubDate>Tue, 10 Nov 2026 16:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261110_1730_192.m4a" length="217691595" type="audio/mp4"/>
+      <itunes:duration>9000</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/50c212e8-f887-4e59-b018-fb3c3b13d089.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 med Juan Havana</title>
+      <description>Juan tar avstamp i veckans P3 Hit och beskriver hur ögonen bär ansvar i popmusiken. Sedan dyker han ner i artister som tar begreppet ”popstar” på största allvar.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2888007</link>
+      <guid isPermaLink="false">p3med-2888007</guid>
+      <pubDate>Tue, 10 Nov 2026 11:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261110_1230_192.m4a" length="261229779" type="audio/mp4"/>
+      <itunes:duration>10800</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/0c36da39-2db3-4f34-9f68-76fa3c0ebe99.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>Med Annie Widman</title>
+      <description>P3-profiler guidar dig genom den bästa musiken.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2888003</link>
+      <guid isPermaLink="false">p3med-2888003</guid>
+      <pubDate>Mon, 09 Nov 2026 22:07:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_musik/2026/11/p3_musik_20261109_2307_192.m4a" length="76919151" type="audio/mp4"/>
+      <itunes:duration>3180</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
+    </item>
     <item>
       <title>P3 med Petter Hallén</title>
       <description>Bröderna Salazar gästar och snackar om boken som sammanfattar deras familjs resa och Redlines historia.</description>
@@ -184,36 +214,6 @@
       <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_musik/2026/11/p3_musik_20261102_2203_192.m4a" length="169800091" type="audio/mp4"/>
       <itunes:duration>7020</itunes:duration>
       <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Navid Bavey</title>
-      <description>Fanny Avonne har chans att vinna P3 Gulds Framtidens Artist och ikväll gästar hon Navid.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2885656</link>
-      <guid isPermaLink="false">p3med-2885656</guid>
-      <pubDate>Mon, 02 Nov 2026 16:30:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261102_1730_192.m4a" length="217691775" type="audio/mp4"/>
-      <itunes:duration>9000</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/50c212e8-f887-4e59-b018-fb3c3b13d089.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>Juan Havana</title>
-      <description>P3-profiler guidar dig genom den bästa musiken.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2885654</link>
-      <guid isPermaLink="false">p3med-2885654</guid>
-      <pubDate>Mon, 02 Nov 2026 11:30:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261102_1230_192.m4a" length="261230174" type="audio/mp4"/>
-      <itunes:duration>10800</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Ison Glasgow och Dessi Hietala</title>
-      <description>Söndag! Hjälp en lyssnare att sluta jämföra sig på sociala medier. Vi får även en tarotläsning över telefon av Amanda Sandvik från podden Hemsökt!</description>
-      <link>https://www.sverigesradio.se/avsnitt/2882590</link>
-      <guid isPermaLink="false">p3med-2882590</guid>
-      <pubDate>Sun, 01 Nov 2026 13:02:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261101_1402_192.m4a" length="258327336" type="audio/mp4"/>
-      <itunes:duration>10680</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/c33cada6-73b8-4617-aef2-0b29cc8e64b1.jpg?preset=api-default-square"/>
     </item>
   </channel>
 </rss>
