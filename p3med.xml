@@ -14,7 +14,37 @@
     <itunes:author>Sveriges Radio</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
-    <lastBuildDate>Tue, 10 Nov 2026 16:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 16:30:00 +0000</lastBuildDate>
+    <item>
+      <title>P3 med Navid Bavey</title>
+      <description>P3-profiler guidar dig genom den bästa musiken.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2888017</link>
+      <guid isPermaLink="false">p3med-2888017</guid>
+      <pubDate>Wed, 11 Nov 2026 16:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261111_1730_192.m4a" length="217691655" type="audio/mp4"/>
+      <itunes:duration>9000</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/50c212e8-f887-4e59-b018-fb3c3b13d089.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>Annie Widman</title>
+      <description>P3-profiler guidar dig genom den bästa musiken.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2888015</link>
+      <guid isPermaLink="false">p3med-2888015</guid>
+      <pubDate>Wed, 11 Nov 2026 11:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261111_1230_192.m4a" length="261230163" type="audio/mp4"/>
+      <itunes:duration>10800</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>Med Annie Widman</title>
+      <description>P3-profiler guidar dig genom den bästa musiken.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2888011</link>
+      <guid isPermaLink="false">p3med-2888011</guid>
+      <pubDate>Tue, 10 Nov 2026 21:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_musik/2026/11/p3_musik_20261110_2203_192.m4a" length="169800235" type="audio/mp4"/>
+      <itunes:duration>7020</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
+    </item>
     <item>
       <title>P3 med Navid Bavey</title>
       <description>Grant kommer förbi och snackar musik och förändring.</description>
@@ -182,36 +212,6 @@
       <guid isPermaLink="false">p3med-2885666</guid>
       <pubDate>Tue, 03 Nov 2026 21:03:00 +0000</pubDate>
       <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_musik/2026/11/p3_musik_20261103_2203_192.m4a" length="169800055" type="audio/mp4"/>
-      <itunes:duration>7020</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Navid Bavey</title>
-      <description>DJ Suzy har chans att vinna P3 Gulds Framtidens Artist och ikväll gästar hon Navid.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2885664</link>
-      <guid isPermaLink="false">p3med-2885664</guid>
-      <pubDate>Tue, 03 Nov 2026 16:30:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261103_1730_192.m4a" length="217691607" type="audio/mp4"/>
-      <itunes:duration>9000</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/50c212e8-f887-4e59-b018-fb3c3b13d089.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Juan Havana</title>
-      <description>P3:s Samir Yosufi kommer och berättar allt om det banbrytande och omdiskuterade techno-skivbolaget R&amp;S. Och Juan tittar in i spåkulan för att se vad som kan vänta ”Framtidens artist”-nominerade DJ Suzy i sin karriär!</description>
-      <link>https://www.sverigesradio.se/avsnitt/2885662</link>
-      <guid isPermaLink="false">p3med-2885662</guid>
-      <pubDate>Tue, 03 Nov 2026 11:30:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261103_1230_192.m4a" length="261230062" type="audio/mp4"/>
-      <itunes:duration>10800</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/0c36da39-2db3-4f34-9f68-76fa3c0ebe99.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>Med Annie Widman</title>
-      <description>P3-profiler guidar dig genom den bästa musiken.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2885658</link>
-      <guid isPermaLink="false">p3med-2885658</guid>
-      <pubDate>Mon, 02 Nov 2026 21:03:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_musik/2026/11/p3_musik_20261102_2203_192.m4a" length="169800091" type="audio/mp4"/>
       <itunes:duration>7020</itunes:duration>
       <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
     </item>
