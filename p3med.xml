@@ -14,7 +14,17 @@
     <itunes:author>Sveriges Radio</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
-    <lastBuildDate>Thu, 19 Nov 2026 21:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:30:00 +0000</lastBuildDate>
+    <item>
+      <title>P3 med Annie Widman</title>
+      <description>Natasha Azarmi kommer förbi och guidar oss till vilken kväll vi kommer få med ny musik från Jireel och Little Jinder! Och Annie kollar närmre på svenska som hörs i GTA VI.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2890702</link>
+      <guid isPermaLink="false">p3med-2890702</guid>
+      <pubDate>Fri, 20 Nov 2026 11:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261120_1230_192.m4a" length="261229820" type="audio/mp4"/>
+      <itunes:duration>10800</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/f77ef57d-4d35-4a45-ab41-eb9b353a7e47.jpg?preset=api-default-square"/>
+    </item>
     <item>
       <title>Med Annie Widman</title>
       <description>P3-profiler guidar dig genom den bästa musiken.</description>
@@ -203,16 +213,6 @@
       <pubDate>Thu, 12 Nov 2026 11:30:00 +0000</pubDate>
       <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261112_1230_192.m4a" length="261229929" type="audio/mp4"/>
       <itunes:duration>10800</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>Med Annie Widman</title>
-      <description>P3-profiler guidar dig genom den bästa musiken.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2888020</link>
-      <guid isPermaLink="false">p3med-2888020</guid>
-      <pubDate>Wed, 11 Nov 2026 21:03:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_musik/2026/11/p3_musik_20261111_2203_192.m4a" length="169800259" type="audio/mp4"/>
-      <itunes:duration>7020</itunes:duration>
       <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
     </item>
   </channel>
