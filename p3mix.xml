@@ -14,7 +14,47 @@
     <itunes:author>Sveriges Radio</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
-    <lastBuildDate>Sat, 14 Nov 2026 19:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 20:03:00 +0000</lastBuildDate>
+    <item>
+      <title>P3 Loungemix med Juan Havana</title>
+      <description>Vi flyger längs Anderna, världens längsta bergskedja. Men inte genom historieböckerna utan genom ljud.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2890708</link>
+      <guid isPermaLink="false">p3mix-2890708</guid>
+      <pubDate>Fri, 20 Nov 2026 20:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_loungemix/2026/11/p3_loungemix_20261120_2103_192.m4a" length="82724151" type="audio/mp4"/>
+      <itunes:duration>3420</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/5047/07cd758f-4212-46a1-bdbb-c9b9d19b6206.png?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 Klubbmix med Linda Nordeman &amp; gästdjs Apex</title>
+      <description>Linda Nordeman spelar ny het klubbmusik samt gästmix från svenska houseduon Apex som bjuder på egna släpp och favoriter inom minimal och deep techsound.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2890707</link>
+      <guid isPermaLink="false">p3mix-2890707</guid>
+      <pubDate>Fri, 20 Nov 2026 19:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_klubbmix/2026/11/p3_klubbmix_20261120_2003_192.m4a" length="82724223" type="audio/mp4"/>
+      <itunes:duration>3420</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/5047/a9bdc1f6-12d1-4165-aa6b-2c752a844a40.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 Klubbmixhits 2026 med Hogland</title>
+      <description>Årets stora klubblåtar och hits från dansgolven urvalt, presenterat, mixat och mashat av en av Sveriges vassaste DJs, Hogland. Höj volymen och låt klubbmusiken ta dig in i helgstämningen!</description>
+      <link>https://www.sverigesradio.se/avsnitt/2890706</link>
+      <guid isPermaLink="false">p3mix-2890706</guid>
+      <pubDate>Fri, 20 Nov 2026 18:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_klubbmixhits/2026/11/p3_klubbmixhits_20261120_1903_192.m4a" length="82724223" type="audio/mp4"/>
+      <itunes:duration>3420</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/5047/b0f7715f-2747-427b-b470-bf3b2feaee43.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 Hitmix med Tord - galaspecial</title>
+      <description>Tord får hjälp i studion av Nigel, Gloria och en flygande reporter när P3 Hitmix har galatema på sändningen. Musik med Beyoncé, Fatboy Slim, Chappell Roan och många fler.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2890705</link>
+      <guid isPermaLink="false">p3mix-2890705</guid>
+      <pubDate>Fri, 20 Nov 2026 17:02:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_hitmix/2026/11/p3_hitmix_20261120_1802_192.m4a" length="84175223" type="audio/mp4"/>
+      <itunes:duration>3480</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/5047/7b000047-6771-4578-bd61-4825b0c98923.jpg?preset=api-default-square"/>
+    </item>
     <item>
       <title>P3 Klubbmix: The Prodigy med Albin Myers</title>
       <description>Albin fokuserar på sin första kärlek i dansmusik-sfären, The Prodigy! Bandet från England som startade i Rave-kulturens vagga och som med tiden tog sig vidare upp på de största scenerna världen över. Repris.</description>
