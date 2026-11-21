@@ -14,7 +14,37 @@
     <itunes:author>Sveriges Radio</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
-    <lastBuildDate>Fri, 20 Nov 2026 11:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 22:30:00 +0000</lastBuildDate>
+    <item>
+      <title>P3 Musik</title>
+      <description>P3-profiler guidar dig genom den bästa musiken.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2897299</link>
+      <guid isPermaLink="false">p3med-2897299</guid>
+      <pubDate>Sat, 21 Nov 2026 22:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_musik/2026/11/p3_musik_20261121_2330_192.m4a" length="43539783" type="audio/mp4"/>
+      <itunes:duration>1800</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 med Petter Hallén och Kevin Kyeswa</title>
+      <description>Petter och Kimbo serverar banger efter banger för att ge dig den bästa starten på lördagskvällen.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2890715</link>
+      <guid isPermaLink="false">p3med-2890715</guid>
+      <pubDate>Sat, 21 Nov 2026 16:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261121_1703_192.m4a" length="169800223" type="audio/mp4"/>
+      <itunes:duration>7020</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/b805f379-256d-4d47-b06e-3ee55c228a45.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 med Ison Glasgow och Petter Ströbaek</title>
+      <description>Skådespelaren Peshang Rad gästar och gör lördagslistor och tävla i ”Vem kan slå Petter”!</description>
+      <link>https://www.sverigesradio.se/avsnitt/2890713</link>
+      <guid isPermaLink="false">p3med-2890713</guid>
+      <pubDate>Sat, 21 Nov 2026 13:02:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261121_1402_192.m4a" length="258327205" type="audio/mp4"/>
+      <itunes:duration>10680</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/aa2c450f-3486-44a8-910e-3a4fff24d60f.jpg?preset=api-default-square"/>
+    </item>
     <item>
       <title>P3 med Annie Widman</title>
       <description>Natasha Azarmi kommer förbi och guidar oss till vilken kväll vi kommer få med ny musik från Jireel och Little Jinder! Och Annie kollar närmre på svenska som hörs i GTA VI.</description>
@@ -184,36 +214,6 @@
       <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261113_1230_192.m4a" length="261229931" type="audio/mp4"/>
       <itunes:duration>10800</itunes:duration>
       <itunes:image href="https://static-cdn.sr.se/images/4323/f77ef57d-4d35-4a45-ab41-eb9b353a7e47.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>Med Annie Widman</title>
-      <description>P3-profiler guidar dig genom den bästa musiken.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2888027</link>
-      <guid isPermaLink="false">p3med-2888027</guid>
-      <pubDate>Thu, 12 Nov 2026 21:30:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_musik/2026/11/p3_musik_20261112_2230_192.m4a" length="130615956" type="audio/mp4"/>
-      <itunes:duration>5400</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Navid Bavey</title>
-      <description>P3-profiler guidar dig genom den bästa musiken.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2888025</link>
-      <guid isPermaLink="false">p3med-2888025</guid>
-      <pubDate>Thu, 12 Nov 2026 16:30:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261112_1730_192.m4a" length="217691679" type="audio/mp4"/>
-      <itunes:duration>9000</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/50c212e8-f887-4e59-b018-fb3c3b13d089.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>Annie Widman</title>
-      <description>P3-profiler guidar dig genom den bästa musiken.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2888023</link>
-      <guid isPermaLink="false">p3med-2888023</guid>
-      <pubDate>Thu, 12 Nov 2026 11:30:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261112_1230_192.m4a" length="261229929" type="audio/mp4"/>
-      <itunes:duration>10800</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
     </item>
   </channel>
 </rss>
