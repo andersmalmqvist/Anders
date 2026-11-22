@@ -14,7 +14,17 @@
     <itunes:author>Sveriges Radio</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
-    <lastBuildDate>Sat, 21 Nov 2026 22:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:02:00 +0000</lastBuildDate>
+    <item>
+      <title>P3 med Ison Glasgow och Petter Ströbaek</title>
+      <description>Söndagshäng med Ison och Petter! Måste julklappar kosta lika mycket? Och du kan tävla i Svara fel och försöka slå Peshang Rad!</description>
+      <link>https://www.sverigesradio.se/avsnitt/2890723</link>
+      <guid isPermaLink="false">p3med-2890723</guid>
+      <pubDate>Sun, 22 Nov 2026 13:02:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261122_1402_192.m4a" length="258327520" type="audio/mp4"/>
+      <itunes:duration>10680</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/aa2c450f-3486-44a8-910e-3a4fff24d60f.jpg?preset=api-default-square"/>
+    </item>
     <item>
       <title>P3 Musik</title>
       <description>P3-profiler guidar dig genom den bästa musiken.</description>
@@ -204,16 +214,6 @@
       <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261114_1402_192.m4a" length="258327411" type="audio/mp4"/>
       <itunes:duration>10680</itunes:duration>
       <itunes:image href="https://static-cdn.sr.se/images/4323/c33cada6-73b8-4617-aef2-0b29cc8e64b1.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Annie Widman</title>
-      <description>Fredagen är laddad med ny musik! Fabian Lantz berättar om vad kvällen kommer leverera om du lyssnar på nytt från U2 och Tove Lo. Och Annie har äntligen fått sätta fingrarna på Snoh Aalegras nya album!</description>
-      <link>https://www.sverigesradio.se/avsnitt/2888031</link>
-      <guid isPermaLink="false">p3med-2888031</guid>
-      <pubDate>Fri, 13 Nov 2026 11:30:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261113_1230_192.m4a" length="261229931" type="audio/mp4"/>
-      <itunes:duration>10800</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/f77ef57d-4d35-4a45-ab41-eb9b353a7e47.jpg?preset=api-default-square"/>
     </item>
   </channel>
 </rss>
