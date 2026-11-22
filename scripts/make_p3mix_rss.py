@@ -2,6 +2,7 @@
 """Bygger ett RSS-flöde för Sveriges Radio P3 Mix (programid 5047).
 
 Ljudet streamas direkt från SR (AAC/m4a) - inga kopior lagras lokalt.
+Bara de MAX_ITEMS senaste avsnitten tas med.
 Användning:  python make_p3mix_rss.py [utfil]
 Standardutfil: p3mix.xml i repots rotmapp.
 """
@@ -15,6 +16,7 @@ from pathlib import Path
 from xml.sax.saxutils import escape
 
 PROGRAM_ID = 5047
+MAX_ITEMS = 20
 API = (
     "https://api.sr.se/api/v2/episodes/index"
     f"?format=json&programid={PROGRAM_ID}&size=100&page={{page}}"
@@ -63,10 +65,10 @@ def collect_episodes() -> list[dict]:
         batch = data.get("episodes") or []
         episodes.extend(batch)
         total_pages = int((data.get("pagination") or {}).get("totalpages") or 1)
-        if not batch or page >= total_pages:
+        if not batch or page >= total_pages or len(episodes) >= MAX_ITEMS:
             break
         page += 1
-    return episodes
+    return episodes[:MAX_ITEMS]
 
 
 def program_image() -> str:
