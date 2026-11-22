@@ -14,7 +14,37 @@
     <itunes:author>Sveriges Radio</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
-    <lastBuildDate>Fri, 20 Nov 2026 20:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 19:03:00 +0000</lastBuildDate>
+    <item>
+      <title>P3 Klubbmixhits: Avicii tribute med Hogland</title>
+      <description>En av Sveriges största artister och låtskatt hyllas när Hogland ger oss en otrolig Avicii tribute. Housefest, händerna i luften, allsång och gåshud! Repris</description>
+      <link>https://www.sverigesradio.se/avsnitt/2894000</link>
+      <guid isPermaLink="false">p3mix-2894000</guid>
+      <pubDate>Sat, 21 Nov 2026 19:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_klubbmixhits/2026/11/p3_klubbmixhits_20261121_2003_192.m4a" length="82724271" type="audio/mp4"/>
+      <itunes:duration>3420</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/5047/f24a75ae-3de9-4b0a-9882-242c83eb2ba4.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>Skivhyllan i P3: 2026 med Tina &amp; Natasha</title>
+      <description>P3:s musikreportrar Tina och Natasha har samlat ihop sina favoritlåtar från popåret 2026! Stora känslor, spännande samarbeten och filmisk pop, det här är låtarna du vill höra om och om igen.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2890717</link>
+      <guid isPermaLink="false">p3mix-2890717</guid>
+      <pubDate>Sat, 21 Nov 2026 18:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/skivhyllan_i_p3/2026/11/skivhyllan_i_p3_20261121_1903_192.m4a" length="82724163" type="audio/mp4"/>
+      <itunes:duration>3420</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/5047/e2847923-9d79-4ba3-8d8b-3993e1110d5c.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 Tracksmix 80-tal med Mio Oliwa</title>
+      <description>Vi fokuserar på 80-talets glansiga, sprakande musikscen fylld med allt från synthpop, punk till sockrig pop &amp; klassisk rock. Repris.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2893998</link>
+      <guid isPermaLink="false">p3mix-2893998</guid>
+      <pubDate>Sat, 21 Nov 2026 12:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_tracksmix/2026/11/p3_tracksmix_20261121_1303_192.m4a" length="82724271" type="audio/mp4"/>
+      <itunes:duration>3420</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/5047/2a0c0c40-03a4-4d24-b800-43804bc899e5.png?preset=api-default-square"/>
+    </item>
     <item>
       <title>P3 Loungemix med Juan Havana</title>
       <description>Vi flyger längs Anderna, världens längsta bergskedja. Men inte genom historieböckerna utan genom ljud.</description>
