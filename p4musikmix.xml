@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>P4 Musikmix</title>
+    <link>https://www.sverigesradio.se/poddar/p4-musikmix</link>
+    <description>P4 Musikmix som poddflöde - avsnitten streamas direkt från Sveriges Radio.</description>
+    <language>sv</language>
+    <image>
+      <url>https://static-cdn.sr.se/images/5483/e5176aa6-33e4-40b5-982e-041609d424a1.jpg</url>
+      <title>P4 Musikmix</title>
+      <link>https://www.sverigesradio.se/poddar/p4-musikmix</link>
+    </image>
+    <itunes:image href="https://static-cdn.sr.se/images/5483/e5176aa6-33e4-40b5-982e-041609d424a1.jpg"/>
+    <itunes:author>Sveriges Radio</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Music"/>
+    <lastBuildDate>Sat, 14 Nov 2026 17:03:00 +0000</lastBuildDate>
+    <item>
+      <title>Maria Jane Smith önskar partylåtar i P4 Musikmix!</title>
+      <description>Maria Jane Smith får önska några partydängor hon gillar när hon gästar Micke Cederberg i P4 Musikmix!</description>
+      <link>https://www.sverigesradio.se/avsnitt/2895807</link>
+      <guid isPermaLink="false">p4musikmix-2895807</guid>
+      <pubDate>Sat, 14 Nov 2026 17:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/autorec/et2w/p4/p4_musikmix/2026/11/SRP4RIKS_2026-11-14_180300_5220_a32.m4a" length="21371326" type="audio/mp4"/>
+      <itunes:duration>5220</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/5483/a84e136f-ce4d-4167-9a50-da9779c9d5e6.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>EllaTiritiello önskar partylåtar i P4 Musikmix!</title>
+      <description>Ella Tiritiello får önska några partydängor hon gillar när hon gästar Micke Cederberg i P4 Musikmix!</description>
+      <link>https://www.sverigesradio.se/avsnitt/2895285</link>
+      <guid isPermaLink="false">p4musikmix-2895285</guid>
+      <pubDate>Sat, 07 Nov 2026 18:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/autorec/et2w/p4/p4_musikmix/2026/11/SRP4RIKS_2026-11-07_193000_5400_a32.m4a" length="22108223" type="audio/mp4"/>
+      <itunes:duration>5400</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/5483/57b6f8a3-a300-456c-9c38-738b39921c20.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>FELICIA önskar partylåtar i P4 Musikmix!</title>
+      <description>FELICIA får önska några partydängor hon gillar när hon gästar Micke Cederberg i P4 Musikmix!</description>
+      <link>https://www.sverigesradio.se/avsnitt/2893637</link>
+      <guid isPermaLink="false">p4musikmix-2893637</guid>
+      <pubDate>Sat, 31 Oct 2026 18:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/autorec/et2w/p4/p4_musikmix/2026/10/SRP4RIKS_2026-10-31_190300_7020_a32.m4a" length="28740289" type="audio/mp4"/>
+      <itunes:duration>7020</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/5483/6c1a9045-b3ad-43ef-81bc-da5965785c2d.jpg?preset=api-default-square"/>
+    </item>
+  </channel>
+</rss>
