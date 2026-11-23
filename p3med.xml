@@ -14,7 +14,37 @@
     <itunes:author>Sveriges Radio</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
-    <lastBuildDate>Sun, 22 Nov 2026 13:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 22:07:00 +0000</lastBuildDate>
+    <item>
+      <title>Med Annie Widman</title>
+      <description>P3-profiler guidar dig genom den bästa musiken.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2892540</link>
+      <guid isPermaLink="false">p3med-2892540</guid>
+      <pubDate>Mon, 23 Nov 2026 22:07:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_musik/2026/11/p3_musik_20261123_2307_192.m4a" length="76919031" type="audio/mp4"/>
+      <itunes:duration>3180</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 med Navid Bavey</title>
+      <description>Little Jinder gästar och berättar om den kreativa inspirationen bakom nya ”Live Från Hell” och så om vilka kultbandet The Shaggs är som ska få sin egen dokumentär snart.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2892537</link>
+      <guid isPermaLink="false">p3med-2892537</guid>
+      <pubDate>Mon, 23 Nov 2026 16:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261123_1730_192.m4a" length="217691439" type="audio/mp4"/>
+      <itunes:duration>9000</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/50c212e8-f887-4e59-b018-fb3c3b13d089.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 med Juan Havana</title>
+      <description>Juan ger ett smakprov av sin senaste P3 Loungemix där andinska panflöjter möter dansanta beats. Och Fabian Lantz kommer förbi för att kolla hur mycket gåshud man får av veckans P3 hit.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2892535</link>
+      <guid isPermaLink="false">p3med-2892535</guid>
+      <pubDate>Mon, 23 Nov 2026 11:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261123_1230_192.m4a" length="261229891" type="audio/mp4"/>
+      <itunes:duration>10800</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/0c36da39-2db3-4f34-9f68-76fa3c0ebe99.jpg?preset=api-default-square"/>
+    </item>
     <item>
       <title>P3 med Ison Glasgow och Petter Ströbaek</title>
       <description>Söndagshäng med Ison och Petter! Måste julklappar kosta lika mycket? Och du kan tävla i Svara fel och försöka slå Peshang Rad!</description>
@@ -184,36 +214,6 @@
       <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261116_1230_192.m4a" length="261230000" type="audio/mp4"/>
       <itunes:duration>10800</itunes:duration>
       <itunes:image href="https://static-cdn.sr.se/images/4323/0c36da39-2db3-4f34-9f68-76fa3c0ebe99.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Ison Glasgow och Dessi Hietala</title>
-      <description>Söndag och vi dissikerar en lyssnares kompisrelation. Ska man ge sin kompis lite though love ibland eller inte? Tävla och vinn biobiljetter också!</description>
-      <link>https://www.sverigesradio.se/avsnitt/2888051</link>
-      <guid isPermaLink="false">p3med-2888051</guid>
-      <pubDate>Sun, 15 Nov 2026 13:02:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261115_1402_192.m4a" length="258327650" type="audio/mp4"/>
-      <itunes:duration>10680</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/c33cada6-73b8-4617-aef2-0b29cc8e64b1.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Petter Hallén och Kevin Kyeswa</title>
-      <description>Petter och Kimbo serverar banger efter banger för att ge dig den bästa starten på lördagskvällen.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2888044</link>
-      <guid isPermaLink="false">p3med-2888044</guid>
-      <pubDate>Sat, 14 Nov 2026 16:03:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261114_1703_192.m4a" length="169800163" type="audio/mp4"/>
-      <itunes:duration>7020</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/b805f379-256d-4d47-b06e-3ee55c228a45.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Ison Glasgow och Dessi Hietala GÄST: LKN</title>
-      <description>Idag kommer LKN till studion och berättar om livet som kontrollfreak och vad som får honom knäsvag. Med mera! Häng med!</description>
-      <link>https://www.sverigesradio.se/avsnitt/2888042</link>
-      <guid isPermaLink="false">p3med-2888042</guid>
-      <pubDate>Sat, 14 Nov 2026 13:02:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261114_1402_192.m4a" length="258327411" type="audio/mp4"/>
-      <itunes:duration>10680</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/c33cada6-73b8-4617-aef2-0b29cc8e64b1.jpg?preset=api-default-square"/>
     </item>
   </channel>
 </rss>
