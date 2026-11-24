@@ -14,7 +14,37 @@
     <itunes:author>Sveriges Radio</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
-    <lastBuildDate>Mon, 23 Nov 2026 22:07:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 21:03:00 +0000</lastBuildDate>
+    <item>
+      <title>Med Annie Widman</title>
+      <description>P3-profiler guidar dig genom den bästa musiken.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2892547</link>
+      <guid isPermaLink="false">p3med-2892547</guid>
+      <pubDate>Tue, 24 Nov 2026 21:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_musik/2026/11/p3_musik_20261124_2203_192.m4a" length="169800163" type="audio/mp4"/>
+      <itunes:duration>7020</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 med Navid Bavey</title>
+      <description>Besök av Yuti som snackar det nya namnet och nya soundet, och så öppnar vi den första luckan i vår kalender med musikaliska julklappstips!</description>
+      <link>https://www.sverigesradio.se/avsnitt/2892545</link>
+      <guid isPermaLink="false">p3med-2892545</guid>
+      <pubDate>Tue, 24 Nov 2026 16:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261124_1730_192.m4a" length="217691739" type="audio/mp4"/>
+      <itunes:duration>9000</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/50c212e8-f887-4e59-b018-fb3c3b13d089.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 med Juan Havana</title>
+      <description>P3 Din Gatas Kimbo och Juan ställer sig frågan ”varför vill rappare vara med i TV-spel?”. Dessutom: Juan tittar närmre på artister som kallas för ”reinkarnationer”.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2892543</link>
+      <guid isPermaLink="false">p3med-2892543</guid>
+      <pubDate>Tue, 24 Nov 2026 11:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261124_1230_192.m4a" length="261229842" type="audio/mp4"/>
+      <itunes:duration>10800</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/0c36da39-2db3-4f34-9f68-76fa3c0ebe99.jpg?preset=api-default-square"/>
+    </item>
     <item>
       <title>Med Annie Widman</title>
       <description>P3-profiler guidar dig genom den bästa musiken.</description>
@@ -182,36 +212,6 @@
       <guid isPermaLink="false">p3med-2890678</guid>
       <pubDate>Tue, 17 Nov 2026 11:30:00 +0000</pubDate>
       <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261117_1230_192.m4a" length="261229752" type="audio/mp4"/>
-      <itunes:duration>10800</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/0c36da39-2db3-4f34-9f68-76fa3c0ebe99.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>Med Annie Widman</title>
-      <description>P3-profiler guidar dig genom den bästa musiken.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2890674</link>
-      <guid isPermaLink="false">p3med-2890674</guid>
-      <pubDate>Mon, 16 Nov 2026 22:07:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_musik/2026/11/p3_musik_20261116_2307_192.m4a" length="76919091" type="audio/mp4"/>
-      <itunes:duration>3180</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Navid Bavey</title>
-      <description>Två olika artister gästar Navid ikväll; Baba Stiltz och Tinie Tempah!</description>
-      <link>https://www.sverigesradio.se/avsnitt/2890672</link>
-      <guid isPermaLink="false">p3med-2890672</guid>
-      <pubDate>Mon, 16 Nov 2026 16:30:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261116_1730_192.m4a" length="217691667" type="audio/mp4"/>
-      <itunes:duration>9000</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/50c212e8-f887-4e59-b018-fb3c3b13d089.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Juan Havana</title>
-      <description>Juan ger ett smakprov av sin senaste P3 Loungemix och han tittar närmre på resultaten av Latin Grammys. Dessutom så kommer Annie Widman och hjälper oss kolla närmre på veckans P3 hit.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2890670</link>
-      <guid isPermaLink="false">p3med-2890670</guid>
-      <pubDate>Mon, 16 Nov 2026 11:30:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261116_1230_192.m4a" length="261230000" type="audio/mp4"/>
       <itunes:duration>10800</itunes:duration>
       <itunes:image href="https://static-cdn.sr.se/images/4323/0c36da39-2db3-4f34-9f68-76fa3c0ebe99.jpg?preset=api-default-square"/>
     </item>
