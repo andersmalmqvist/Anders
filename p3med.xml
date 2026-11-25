@@ -14,7 +14,37 @@
     <itunes:author>Sveriges Radio</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
-    <lastBuildDate>Tue, 24 Nov 2026 21:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:03:00 +0000</lastBuildDate>
+    <item>
+      <title>Med Annie Widman</title>
+      <description>P3-profiler guidar dig genom den bästa musiken.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2892556</link>
+      <guid isPermaLink="false">p3med-2892556</guid>
+      <pubDate>Wed, 25 Nov 2026 21:03:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_musik/2026/11/p3_musik_20261125_2203_192.m4a" length="169800079" type="audio/mp4"/>
+      <itunes:duration>7020</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 med Navid Bavey</title>
+      <description>P3-profiler guidar dig genom den bästa musiken.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2892553</link>
+      <guid isPermaLink="false">p3med-2892553</guid>
+      <pubDate>Wed, 25 Nov 2026 16:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261125_1730_192.m4a" length="217691763" type="audio/mp4"/>
+      <itunes:duration>9000</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/50c212e8-f887-4e59-b018-fb3c3b13d089.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 med Juan Havana</title>
+      <description>Juan gästas av producenten och DJn Hogland som visar filerna bakom låten ”Rocket man”. Och senare så tittar Juan närmre på några av dom artister som spelar på Musikhjälpen nästa vecka.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2892551</link>
+      <guid isPermaLink="false">p3med-2892551</guid>
+      <pubDate>Wed, 25 Nov 2026 11:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261125_1230_192.m4a" length="261229743" type="audio/mp4"/>
+      <itunes:duration>10800</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/0c36da39-2db3-4f34-9f68-76fa3c0ebe99.jpg?preset=api-default-square"/>
+    </item>
     <item>
       <title>Med Annie Widman</title>
       <description>P3-profiler guidar dig genom den bästa musiken.</description>
@@ -182,36 +212,6 @@
       <guid isPermaLink="false">p3med-2890686</guid>
       <pubDate>Wed, 18 Nov 2026 11:30:00 +0000</pubDate>
       <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261118_1230_192.m4a" length="261230193" type="audio/mp4"/>
-      <itunes:duration>10800</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/0c36da39-2db3-4f34-9f68-76fa3c0ebe99.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>Med Annie Widman</title>
-      <description>P3-profiler guidar dig genom den bästa musiken.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2890682</link>
-      <guid isPermaLink="false">p3med-2890682</guid>
-      <pubDate>Tue, 17 Nov 2026 21:03:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_musik/2026/11/p3_musik_20261117_2203_192.m4a" length="169800271" type="audio/mp4"/>
-      <itunes:duration>7020</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Navid Bavey</title>
-      <description>Niki &amp; The Dove är tillbaka efter samarbetet med Swedish House Mafia i Lioness och hela 10 år efter senaste albumet. Ikväll gästar dom P3 med Navid och listar inspiration till nya singeln.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2890680</link>
-      <guid isPermaLink="false">p3med-2890680</guid>
-      <pubDate>Tue, 17 Nov 2026 16:30:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261117_1730_192.m4a" length="217691727" type="audio/mp4"/>
-      <itunes:duration>9000</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/50c212e8-f887-4e59-b018-fb3c3b13d089.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Juan Havana</title>
-      <description>Juan tittar på dom misslyckade plattorna som visade sig bli lärdomar för artister. Dessutom kommer Tina Mehrafzoon förbi och reder ut den kritiserade Best New Artist-kategorin i Grammy-galan.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2890678</link>
-      <guid isPermaLink="false">p3med-2890678</guid>
-      <pubDate>Tue, 17 Nov 2026 11:30:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261117_1230_192.m4a" length="261229752" type="audio/mp4"/>
       <itunes:duration>10800</itunes:duration>
       <itunes:image href="https://static-cdn.sr.se/images/4323/0c36da39-2db3-4f34-9f68-76fa3c0ebe99.jpg?preset=api-default-square"/>
     </item>
