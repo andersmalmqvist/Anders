@@ -14,7 +14,37 @@
     <itunes:author>Sveriges Radio</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
-    <lastBuildDate>Wed, 25 Nov 2026 21:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 21:30:00 +0000</lastBuildDate>
+    <item>
+      <title>Med Annie Widman</title>
+      <description>P3-profiler guidar dig genom den bästa musiken.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2892563</link>
+      <guid isPermaLink="false">p3med-2892563</guid>
+      <pubDate>Thu, 26 Nov 2026 21:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_musik/2026/11/p3_musik_20261126_2230_192.m4a" length="130615603" type="audio/mp4"/>
+      <itunes:duration>5400</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 med Navid Bavey</title>
+      <description>P3-profiler guidar dig genom den bästa musiken.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2892561</link>
+      <guid isPermaLink="false">p3med-2892561</guid>
+      <pubDate>Thu, 26 Nov 2026 16:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261126_1730_192.m4a" length="217691595" type="audio/mp4"/>
+      <itunes:duration>9000</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/50c212e8-f887-4e59-b018-fb3c3b13d089.jpg?preset=api-default-square"/>
+    </item>
+    <item>
+      <title>P3 med Annie Widman</title>
+      <description>Annie är besatt av att Niki &amp; the Dove är tillbaka! Så hon tittar närmre på resan bandet har tagit under karriären. Dessutom så tittar hon på vad som fick Duran Duran att sticka ut på 80-talets musikscen.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2892559</link>
+      <guid isPermaLink="false">p3med-2892559</guid>
+      <pubDate>Thu, 26 Nov 2026 11:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261126_1230_192.m4a" length="261229738" type="audio/mp4"/>
+      <itunes:duration>10800</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/f77ef57d-4d35-4a45-ab41-eb9b353a7e47.jpg?preset=api-default-square"/>
+    </item>
     <item>
       <title>Med Annie Widman</title>
       <description>P3-profiler guidar dig genom den bästa musiken.</description>
@@ -184,36 +214,6 @@
       <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261119_1230_192.m4a" length="261230029" type="audio/mp4"/>
       <itunes:duration>10800</itunes:duration>
       <itunes:image href="https://static-cdn.sr.se/images/4323/f77ef57d-4d35-4a45-ab41-eb9b353a7e47.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>Med Annie Widman</title>
-      <description>P3-profiler guidar dig genom den bästa musiken.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2890691</link>
-      <guid isPermaLink="false">p3med-2890691</guid>
-      <pubDate>Wed, 18 Nov 2026 21:03:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_musik/2026/11/p3_musik_20261118_2203_192.m4a" length="169800211" type="audio/mp4"/>
-      <itunes:duration>7020</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/963e16bf-2480-4988-ac0b-3d053776fdfd.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Navid Bavey</title>
-      <description>Broder John firar 10 år sedan debutalbumet och gör alla sina tre album på några speciella kvällar runtom i Sverige. Ikväll gästar han Navid och listar misslyckanden och framgångar som artist och skivbolagsboss.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2890688</link>
-      <guid isPermaLink="false">p3med-2890688</guid>
-      <pubDate>Wed, 18 Nov 2026 16:30:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261118_1730_192.m4a" length="217691727" type="audio/mp4"/>
-      <itunes:duration>9000</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/50c212e8-f887-4e59-b018-fb3c3b13d089.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Juan Havana</title>
-      <description>Juan reser genom tiden för att se hur artister lät tidigare i sina karriärer. Och Natasha Azarmi kommer förbi för att reda ut hur BTS-bojkotten påverkade Grammy-kategorin ”Best Asian Pop Performance”.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2890686</link>
-      <guid isPermaLink="false">p3med-2890686</guid>
-      <pubDate>Wed, 18 Nov 2026 11:30:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261118_1230_192.m4a" length="261230193" type="audio/mp4"/>
-      <itunes:duration>10800</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/0c36da39-2db3-4f34-9f68-76fa3c0ebe99.jpg?preset=api-default-square"/>
     </item>
   </channel>
 </rss>
