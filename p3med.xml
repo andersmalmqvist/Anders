@@ -14,7 +14,17 @@
     <itunes:author>Sveriges Radio</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
-    <lastBuildDate>Thu, 26 Nov 2026 21:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 11:30:00 +0000</lastBuildDate>
+    <item>
+      <title>P3 med Annie Widman</title>
+      <description>Vad får vi för kväll med några av dom nya låtarna som har kommit idag? Annie reder ut den frågan tillsammans med producent-Roberto! Och musikreporter Natasha Azarmi kommer förbi för att titta närmre på bandet mellan techno och övergivna platser.</description>
+      <link>https://www.sverigesradio.se/avsnitt/2892567</link>
+      <guid isPermaLink="false">p3med-2892567</guid>
+      <pubDate>Fri, 27 Nov 2026 11:30:00 +0000</pubDate>
+      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261127_1230_192.m4a" length="261230052" type="audio/mp4"/>
+      <itunes:duration>10800</itunes:duration>
+      <itunes:image href="https://static-cdn.sr.se/images/4323/f77ef57d-4d35-4a45-ab41-eb9b353a7e47.jpg?preset=api-default-square"/>
+    </item>
     <item>
       <title>Med Annie Widman</title>
       <description>P3-profiler guidar dig genom den bästa musiken.</description>
@@ -204,16 +214,6 @@
       <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261119_1730_192.m4a" length="217691711" type="audio/mp4"/>
       <itunes:duration>9000</itunes:duration>
       <itunes:image href="https://static-cdn.sr.se/images/4323/b14c26d0-3882-4afd-a48d-d9cb25b99a4a.jpg?preset=api-default-square"/>
-    </item>
-    <item>
-      <title>P3 med Annie Widman</title>
-      <description>Nomineringarna för P3 Guld 2027 är här!! Annie tittar närmre på kategorierna! Dessutom så delar hon sina gissningar på vem som kan få ansvaret att göra nästa James Bond-ledmotiv.</description>
-      <link>https://www.sverigesradio.se/avsnitt/2890694</link>
-      <guid isPermaLink="false">p3med-2890694</guid>
-      <pubDate>Thu, 19 Nov 2026 11:30:00 +0000</pubDate>
-      <enclosure url="https://lyssna-cdn.sr.se/ljudit/p3/p3_med/2026/11/p3_med_20261119_1230_192.m4a" length="261230029" type="audio/mp4"/>
-      <itunes:duration>10800</itunes:duration>
-      <itunes:image href="https://static-cdn.sr.se/images/4323/f77ef57d-4d35-4a45-ab41-eb9b353a7e47.jpg?preset=api-default-square"/>
     </item>
   </channel>
 </rss>
